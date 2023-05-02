@@ -1,6 +1,6 @@
 name = "polyhedral_jll"
 uuid = "153a2890-ff2e-5a69-ae07-3a309ed8aed3"
-version = "0.1.0+0"
+version = "0.2.0+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
