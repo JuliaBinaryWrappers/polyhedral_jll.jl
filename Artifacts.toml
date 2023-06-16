@@ -1,252 +1,252 @@
 [[polyhedral]]
 arch = "aarch64"
-git-tree-sha1 = "2fd6315dc5b7feb165bdb0c9a42e2789e821c987"
+git-tree-sha1 = "60574a3e6f50a93636c065536c384f1679a01c39"
 os = "macos"
 
     [[polyhedral.download]]
-    sha256 = "f0b5a10385257de013e4f3d00b31e92375ed35ae62b68479f2cd08d5b32f3f7a"
-    url = "https://github.com/JuliaBinaryWrappers/polyhedral_jll.jl/releases/download/polyhedral-v0.2.0+0/polyhedral.v0.2.0.aarch64-apple-darwin.tar.gz"
+    sha256 = "bc2b3d7792dbbbee44ab44a205e12c1541623ffff88f7099150648fe0acdaf91"
+    url = "https://github.com/JuliaBinaryWrappers/polyhedral_jll.jl/releases/download/polyhedral-v0.3.0+0/polyhedral.v0.3.0.aarch64-apple-darwin.tar.gz"
 [[polyhedral]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "7a08df2d6349ad85b010659eb80bc2d139c0d7dd"
+git-tree-sha1 = "69dbe34ae447d34c93f62b784d18ead9544e34af"
 libc = "glibc"
 os = "linux"
 
     [[polyhedral.download]]
-    sha256 = "a140c26e1e99e5e0d677e279d5ed1f11fe82ce6d1caa27148f2aee1b55287c07"
-    url = "https://github.com/JuliaBinaryWrappers/polyhedral_jll.jl/releases/download/polyhedral-v0.2.0+0/polyhedral.v0.2.0.aarch64-linux-gnu-cxx03.tar.gz"
+    sha256 = "8011b53a601fd1d8f35dd921327aed5de1aab1ad038c0cbf917676f69884d710"
+    url = "https://github.com/JuliaBinaryWrappers/polyhedral_jll.jl/releases/download/polyhedral-v0.3.0+0/polyhedral.v0.3.0.aarch64-linux-gnu-cxx03.tar.gz"
 [[polyhedral]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "1a8f93ceb4c3b28a25089ecf62b3726db6b663b3"
+git-tree-sha1 = "7e70d72a340a8dfea4826504a7affeb0e2ca1726"
 libc = "glibc"
 os = "linux"
 
     [[polyhedral.download]]
-    sha256 = "02ad946055e71cb4b90e8056e0a07ad5f843cd5f0ce5d6f569b0302ee20bc0b0"
-    url = "https://github.com/JuliaBinaryWrappers/polyhedral_jll.jl/releases/download/polyhedral-v0.2.0+0/polyhedral.v0.2.0.aarch64-linux-gnu-cxx11.tar.gz"
+    sha256 = "fb1ce2450d1b01dcb4e7cc9c3fef08d31b6d747c18b8f148e16dab241fa1f4cc"
+    url = "https://github.com/JuliaBinaryWrappers/polyhedral_jll.jl/releases/download/polyhedral-v0.3.0+0/polyhedral.v0.3.0.aarch64-linux-gnu-cxx11.tar.gz"
 [[polyhedral]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "84f8c45cdcedccfa2e77bb09016b799ef9a1d274"
+git-tree-sha1 = "5688f6ef67f3ab9a99ba892adc338b4df7b92c95"
 libc = "musl"
 os = "linux"
 
     [[polyhedral.download]]
-    sha256 = "6c43eae6cff707fa9c7edae702ee8a08b734832666567918bf12d614de57eae6"
-    url = "https://github.com/JuliaBinaryWrappers/polyhedral_jll.jl/releases/download/polyhedral-v0.2.0+0/polyhedral.v0.2.0.aarch64-linux-musl-cxx03.tar.gz"
+    sha256 = "3823ef3590e7a730ed5e17c2312c059eb12b551c9b2d8aa7cf6c49390dc07077"
+    url = "https://github.com/JuliaBinaryWrappers/polyhedral_jll.jl/releases/download/polyhedral-v0.3.0+0/polyhedral.v0.3.0.aarch64-linux-musl-cxx03.tar.gz"
 [[polyhedral]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "565971452db7d6141c18d7f1d1db690b1c6a8f96"
+git-tree-sha1 = "07453f9ca4f3c21509684013e113b5fb8b1a2baa"
 libc = "musl"
 os = "linux"
 
     [[polyhedral.download]]
-    sha256 = "5dd0cc641c73c54c6bff0560048196b354b5798d7a678f765fa3b97e54e230e3"
-    url = "https://github.com/JuliaBinaryWrappers/polyhedral_jll.jl/releases/download/polyhedral-v0.2.0+0/polyhedral.v0.2.0.aarch64-linux-musl-cxx11.tar.gz"
+    sha256 = "720c0912b3fe77668bb90f9fd1aefc95d986bc65a371d26266f64d44417d1f89"
+    url = "https://github.com/JuliaBinaryWrappers/polyhedral_jll.jl/releases/download/polyhedral-v0.3.0+0/polyhedral.v0.3.0.aarch64-linux-musl-cxx11.tar.gz"
 [[polyhedral]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "85d07e81371dd467b7592244b196cb1fe45a0c09"
+git-tree-sha1 = "934636d84fa8d9e9ab75c2c54b44b6214ae0fddd"
 libc = "glibc"
 os = "linux"
 
     [[polyhedral.download]]
-    sha256 = "d8ede4c04c419e1165c429dd447b647c3e585714e6fb3d2564a9d90174ad9cb8"
-    url = "https://github.com/JuliaBinaryWrappers/polyhedral_jll.jl/releases/download/polyhedral-v0.2.0+0/polyhedral.v0.2.0.armv6l-linux-gnueabihf-cxx03.tar.gz"
+    sha256 = "c3afc23929f88ebd2d0295e032d794f250a13b73ac793b563b0f2ef3b2a37e6d"
+    url = "https://github.com/JuliaBinaryWrappers/polyhedral_jll.jl/releases/download/polyhedral-v0.3.0+0/polyhedral.v0.3.0.armv6l-linux-gnueabihf-cxx03.tar.gz"
 [[polyhedral]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "0628a68d08b0efd1a6289a3b69959fae6e62c449"
+git-tree-sha1 = "340b51153a951f9d6a655bf4a831221c3e57c8bb"
 libc = "glibc"
 os = "linux"
 
     [[polyhedral.download]]
-    sha256 = "f13b68a705c60c75d545365b136509d05586b19d187c9d56b4b3986a87a373e5"
-    url = "https://github.com/JuliaBinaryWrappers/polyhedral_jll.jl/releases/download/polyhedral-v0.2.0+0/polyhedral.v0.2.0.armv6l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "a38a8e517c94b6d7200b822c7ddc621580c2c71b4a776219136e62d5592464a2"
+    url = "https://github.com/JuliaBinaryWrappers/polyhedral_jll.jl/releases/download/polyhedral-v0.3.0+0/polyhedral.v0.3.0.armv6l-linux-gnueabihf-cxx11.tar.gz"
 [[polyhedral]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "0569a7419ac94fe7ee3ad6f8e293070462547de7"
+git-tree-sha1 = "d7f57297cac0181a8ee58c61a791a145dc2e45f7"
 libc = "musl"
 os = "linux"
 
     [[polyhedral.download]]
-    sha256 = "260ef81dbf57753848321944308cc12eb5d190b075f4fe4dd6ccb5f9a94a5e25"
-    url = "https://github.com/JuliaBinaryWrappers/polyhedral_jll.jl/releases/download/polyhedral-v0.2.0+0/polyhedral.v0.2.0.armv6l-linux-musleabihf-cxx03.tar.gz"
+    sha256 = "c5059004e002461e80814812f41e6b8b2b50b318b7e218650149bd9dee0ba5e9"
+    url = "https://github.com/JuliaBinaryWrappers/polyhedral_jll.jl/releases/download/polyhedral-v0.3.0+0/polyhedral.v0.3.0.armv6l-linux-musleabihf-cxx03.tar.gz"
 [[polyhedral]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "796dffb2c9319b0ead531315dae4dbbb7ba4cdb4"
+git-tree-sha1 = "377f729cef754d2736e9731d7a715a78a289cc85"
 libc = "musl"
 os = "linux"
 
     [[polyhedral.download]]
-    sha256 = "a9b1007d3c9b12e03a145687e7ba1cecc656f6e212146d43a51b9deee9ff3498"
-    url = "https://github.com/JuliaBinaryWrappers/polyhedral_jll.jl/releases/download/polyhedral-v0.2.0+0/polyhedral.v0.2.0.armv6l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "fcbef8ac35e8c3d18fa0dcc87480ef940ff2301ff76f4206a34abc72c3858874"
+    url = "https://github.com/JuliaBinaryWrappers/polyhedral_jll.jl/releases/download/polyhedral-v0.3.0+0/polyhedral.v0.3.0.armv6l-linux-musleabihf-cxx11.tar.gz"
 [[polyhedral]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "b3cb12aa8a4082b6b099da3e21461876d29169c5"
+git-tree-sha1 = "209ad0b69b36b27fe5dcd22c08b845203b05cb4e"
 libc = "glibc"
 os = "linux"
 
     [[polyhedral.download]]
-    sha256 = "8bf339e0fd976664a5c362d5545679c3e2758bc68e5e9c9e2eeb94d9f6c34d03"
-    url = "https://github.com/JuliaBinaryWrappers/polyhedral_jll.jl/releases/download/polyhedral-v0.2.0+0/polyhedral.v0.2.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
+    sha256 = "fd4015cd66c1d3866ee3d488404bfd3dd9cb276e979c466a029d039a6812d8ea"
+    url = "https://github.com/JuliaBinaryWrappers/polyhedral_jll.jl/releases/download/polyhedral-v0.3.0+0/polyhedral.v0.3.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
 [[polyhedral]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "8f27b92af19a007dc7303fdc22c877ae68c0d479"
+git-tree-sha1 = "1e0cdf7a63f65745120808ba416050efc7079ea9"
 libc = "glibc"
 os = "linux"
 
     [[polyhedral.download]]
-    sha256 = "450d6955d23f1d3c0eaf3dd8afec072efd85e9d9bf0d73d4a83919fae1e0264d"
-    url = "https://github.com/JuliaBinaryWrappers/polyhedral_jll.jl/releases/download/polyhedral-v0.2.0+0/polyhedral.v0.2.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "4d841c3bc63fe308159296055f4c07b305d1e8709cbe6e4a1a50d3669832b817"
+    url = "https://github.com/JuliaBinaryWrappers/polyhedral_jll.jl/releases/download/polyhedral-v0.3.0+0/polyhedral.v0.3.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
 [[polyhedral]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "7452d681d9f8f008a3019bca4f5a528a84a8cb46"
+git-tree-sha1 = "9ba67275e6f0fc3ae4be3c03f1ae07731d3cdd5e"
 libc = "musl"
 os = "linux"
 
     [[polyhedral.download]]
-    sha256 = "6267a632ba81f86888001e2fcdd7c9af834b66910fa2161ddfe6be2293f4d802"
-    url = "https://github.com/JuliaBinaryWrappers/polyhedral_jll.jl/releases/download/polyhedral-v0.2.0+0/polyhedral.v0.2.0.armv7l-linux-musleabihf-cxx03.tar.gz"
+    sha256 = "148c2ac0decc1f1545dac87f6d8c2615162493a850402402891a9143dedcb957"
+    url = "https://github.com/JuliaBinaryWrappers/polyhedral_jll.jl/releases/download/polyhedral-v0.3.0+0/polyhedral.v0.3.0.armv7l-linux-musleabihf-cxx03.tar.gz"
 [[polyhedral]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "d114ea9bca499cc7ea03fad5c7fbd063f534e54b"
+git-tree-sha1 = "cbdcf15de3dc3f42cfb24958836763c8a753ff1e"
 libc = "musl"
 os = "linux"
 
     [[polyhedral.download]]
-    sha256 = "5ee371f51a6cee0bacc7a2863a248ce4380060fa87a15057e547beee72f9c2f5"
-    url = "https://github.com/JuliaBinaryWrappers/polyhedral_jll.jl/releases/download/polyhedral-v0.2.0+0/polyhedral.v0.2.0.armv7l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "4c67a3fa8222b67fc539cad979dc1392bd3dd5639d0c5a735212056665d0d747"
+    url = "https://github.com/JuliaBinaryWrappers/polyhedral_jll.jl/releases/download/polyhedral-v0.3.0+0/polyhedral.v0.3.0.armv7l-linux-musleabihf-cxx11.tar.gz"
 [[polyhedral]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "316cd0ff5bc8c2fa251f872cb2ae50a372a5f3f5"
+git-tree-sha1 = "a940fd867181215797ac924c6e4683cb22277260"
 libc = "glibc"
 os = "linux"
 
     [[polyhedral.download]]
-    sha256 = "cebf7c360a6582e7951531a4cbbc3bf4bd7fab97eb6f5dcdf154f6f8a6096e2a"
-    url = "https://github.com/JuliaBinaryWrappers/polyhedral_jll.jl/releases/download/polyhedral-v0.2.0+0/polyhedral.v0.2.0.i686-linux-gnu-cxx03.tar.gz"
+    sha256 = "0274b70d99743932931b438108799a3fb9f39c0418d88b0f40e63e7876542245"
+    url = "https://github.com/JuliaBinaryWrappers/polyhedral_jll.jl/releases/download/polyhedral-v0.3.0+0/polyhedral.v0.3.0.i686-linux-gnu-cxx03.tar.gz"
 [[polyhedral]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "d6e487ed8e54cee2d730ba60205da47ea83c649b"
+git-tree-sha1 = "98259b6a92a43c7df65acdf93d00611314a1275a"
 libc = "glibc"
 os = "linux"
 
     [[polyhedral.download]]
-    sha256 = "523f6897a0a1e9e845c23f131032a606dd17a82738e9628174015e4161f342fe"
-    url = "https://github.com/JuliaBinaryWrappers/polyhedral_jll.jl/releases/download/polyhedral-v0.2.0+0/polyhedral.v0.2.0.i686-linux-gnu-cxx11.tar.gz"
+    sha256 = "fe1c2c0b5fcafbcaf841d10a29813285cf55d6a6fc42bd95369a0ea73a75149f"
+    url = "https://github.com/JuliaBinaryWrappers/polyhedral_jll.jl/releases/download/polyhedral-v0.3.0+0/polyhedral.v0.3.0.i686-linux-gnu-cxx11.tar.gz"
 [[polyhedral]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "806ea79fb248929fbc0bf7b1334381f38fd95452"
+git-tree-sha1 = "46534a98ac57f99c2e60ced1fc9fc3038be57e9c"
 libc = "musl"
 os = "linux"
 
     [[polyhedral.download]]
-    sha256 = "9df2fb19100ca6a9d044511d06f8b99510531c78d5824cf065a6a380b123b2b1"
-    url = "https://github.com/JuliaBinaryWrappers/polyhedral_jll.jl/releases/download/polyhedral-v0.2.0+0/polyhedral.v0.2.0.i686-linux-musl-cxx03.tar.gz"
+    sha256 = "f8311f6c10dc6ade48652b25217ddf1ceca3008ed2266b06cb62aeee5164f8c5"
+    url = "https://github.com/JuliaBinaryWrappers/polyhedral_jll.jl/releases/download/polyhedral-v0.3.0+0/polyhedral.v0.3.0.i686-linux-musl-cxx03.tar.gz"
 [[polyhedral]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "aa7822e661b4943e4506f282c8f88f60dd055074"
+git-tree-sha1 = "ce35df2070fadeb56d6bb266a7b58bbb150afdfc"
 libc = "musl"
 os = "linux"
 
     [[polyhedral.download]]
-    sha256 = "311abc048dca5af1c3537b5c9103fbb71ac964284fd248f08c4fed7573f40866"
-    url = "https://github.com/JuliaBinaryWrappers/polyhedral_jll.jl/releases/download/polyhedral-v0.2.0+0/polyhedral.v0.2.0.i686-linux-musl-cxx11.tar.gz"
+    sha256 = "684d79aebf34f3d853f45f97637574e3bca337ca18a834f38ac067d68c2ff3b5"
+    url = "https://github.com/JuliaBinaryWrappers/polyhedral_jll.jl/releases/download/polyhedral-v0.3.0+0/polyhedral.v0.3.0.i686-linux-musl-cxx11.tar.gz"
 [[polyhedral]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "96417d4aa84ee3e108923c8731a18da05af94cd8"
+git-tree-sha1 = "1bf11f0792e901924ff8a60c33b96470b8c0c89c"
 libc = "glibc"
 os = "linux"
 
     [[polyhedral.download]]
-    sha256 = "546fd51f19d285578c72a179bbd37e74e3ee996fbb2224135422036660725bb0"
-    url = "https://github.com/JuliaBinaryWrappers/polyhedral_jll.jl/releases/download/polyhedral-v0.2.0+0/polyhedral.v0.2.0.powerpc64le-linux-gnu-cxx03.tar.gz"
+    sha256 = "659fe4a29119c8b355ad25f9e372e561e40bddcb727464057daca43f6f72b30d"
+    url = "https://github.com/JuliaBinaryWrappers/polyhedral_jll.jl/releases/download/polyhedral-v0.3.0+0/polyhedral.v0.3.0.powerpc64le-linux-gnu-cxx03.tar.gz"
 [[polyhedral]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "4babadaf9c0e74222d483baaf6d3d30df7bc8d7c"
+git-tree-sha1 = "76c922149831570cf8595b8dc4dd9e95c76d52c2"
 libc = "glibc"
 os = "linux"
 
     [[polyhedral.download]]
-    sha256 = "08a019227450f36aabcbf1b3817c0a3c3ec01b4fab4544951098035271484fc5"
-    url = "https://github.com/JuliaBinaryWrappers/polyhedral_jll.jl/releases/download/polyhedral-v0.2.0+0/polyhedral.v0.2.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+    sha256 = "fb27bf747dab97b86a204abe85885ac60cc09d42318756dc5dc59e8232e9c195"
+    url = "https://github.com/JuliaBinaryWrappers/polyhedral_jll.jl/releases/download/polyhedral-v0.3.0+0/polyhedral.v0.3.0.powerpc64le-linux-gnu-cxx11.tar.gz"
 [[polyhedral]]
 arch = "x86_64"
-git-tree-sha1 = "95c853f9b662473bfbb13830641f6d5c81c7cf20"
+git-tree-sha1 = "da11e4e107cc344b8474bdb057a7745d2455f133"
 os = "macos"
 
     [[polyhedral.download]]
-    sha256 = "5c8e8a140efe800140314dd66a3d9badc17b06396b609194bd8ed2dbc216b1f5"
-    url = "https://github.com/JuliaBinaryWrappers/polyhedral_jll.jl/releases/download/polyhedral-v0.2.0+0/polyhedral.v0.2.0.x86_64-apple-darwin.tar.gz"
+    sha256 = "5628edfe0413343883b7c9d97d76379c14e1f8183a8ba05e088a5d503c173ad0"
+    url = "https://github.com/JuliaBinaryWrappers/polyhedral_jll.jl/releases/download/polyhedral-v0.3.0+0/polyhedral.v0.3.0.x86_64-apple-darwin.tar.gz"
 [[polyhedral]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "c27726540c9caaab88495eb34c183205b217993a"
+git-tree-sha1 = "d5e841124fe07c4f76912ccc7530010fb3acf37c"
 libc = "glibc"
 os = "linux"
 
     [[polyhedral.download]]
-    sha256 = "b391c94c6a378714ea1b340dbbab53aa757d51973e134c6c881c28c40c12fe9d"
-    url = "https://github.com/JuliaBinaryWrappers/polyhedral_jll.jl/releases/download/polyhedral-v0.2.0+0/polyhedral.v0.2.0.x86_64-linux-gnu-cxx03.tar.gz"
+    sha256 = "1dd61c67492a3cceba2532de3007f52b8c13d0847cbdde6836b3ab9e87ee205b"
+    url = "https://github.com/JuliaBinaryWrappers/polyhedral_jll.jl/releases/download/polyhedral-v0.3.0+0/polyhedral.v0.3.0.x86_64-linux-gnu-cxx03.tar.gz"
 [[polyhedral]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "13b630fc39a91809a2b6b80cebab9991101595cc"
+git-tree-sha1 = "11416fa2351b696e5c1b9daf854bc25cfdedc874"
 libc = "glibc"
 os = "linux"
 
     [[polyhedral.download]]
-    sha256 = "0a0c6a41e92147725b006baced104e5dffc1d9dfaef5e1f203a463cc6b74fca4"
-    url = "https://github.com/JuliaBinaryWrappers/polyhedral_jll.jl/releases/download/polyhedral-v0.2.0+0/polyhedral.v0.2.0.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "00219fd750272afc828a8c2a18330001987e593d020d571459b00f6841c46b21"
+    url = "https://github.com/JuliaBinaryWrappers/polyhedral_jll.jl/releases/download/polyhedral-v0.3.0+0/polyhedral.v0.3.0.x86_64-linux-gnu-cxx11.tar.gz"
 [[polyhedral]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "84bdb2dcf00b6a2d1dc5aa1404cc33dc5c55652a"
+git-tree-sha1 = "0b53fc415a7cf677781d374389f6acf6370748c8"
 libc = "musl"
 os = "linux"
 
     [[polyhedral.download]]
-    sha256 = "24a096afc319ed80af92cb546794a6fef70d832f0ce787b452f818f536f45fdf"
-    url = "https://github.com/JuliaBinaryWrappers/polyhedral_jll.jl/releases/download/polyhedral-v0.2.0+0/polyhedral.v0.2.0.x86_64-linux-musl-cxx03.tar.gz"
+    sha256 = "4cfa52c36c32cfe9a4f932b636d6168b4efbf5ab75b1ed34521303472bf76d6a"
+    url = "https://github.com/JuliaBinaryWrappers/polyhedral_jll.jl/releases/download/polyhedral-v0.3.0+0/polyhedral.v0.3.0.x86_64-linux-musl-cxx03.tar.gz"
 [[polyhedral]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "424abde8675ed74c956117c0c12dd332d583f4a1"
+git-tree-sha1 = "d1c77f0a4d750793a2600e2734820c435d2169b5"
 libc = "musl"
 os = "linux"
 
     [[polyhedral.download]]
-    sha256 = "e3c075475ecb3e5bdbd50621787db8f383cea08a40f9710b3cd16a2ca4729603"
-    url = "https://github.com/JuliaBinaryWrappers/polyhedral_jll.jl/releases/download/polyhedral-v0.2.0+0/polyhedral.v0.2.0.x86_64-linux-musl-cxx11.tar.gz"
+    sha256 = "bca8a6033fdbcce2d90643f6cf41eb5f89d0d4ef41a42631a996297632db2762"
+    url = "https://github.com/JuliaBinaryWrappers/polyhedral_jll.jl/releases/download/polyhedral-v0.3.0+0/polyhedral.v0.3.0.x86_64-linux-musl-cxx11.tar.gz"
 [[polyhedral]]
 arch = "x86_64"
-git-tree-sha1 = "19463ea9197c2640fa6979379d780e93d7127fcf"
+git-tree-sha1 = "38e62fcf4f045f2873549a49c6d16c4bce507272"
 os = "freebsd"
 
     [[polyhedral.download]]
-    sha256 = "19334db9c6ea7ad38c79760f1c88dc95da5b87f77be88ffd0411311f19c16414"
-    url = "https://github.com/JuliaBinaryWrappers/polyhedral_jll.jl/releases/download/polyhedral-v0.2.0+0/polyhedral.v0.2.0.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "310962341d5397eb587a9d761ce8c42bf9d1586c90f3f0b88902424317386df6"
+    url = "https://github.com/JuliaBinaryWrappers/polyhedral_jll.jl/releases/download/polyhedral-v0.3.0+0/polyhedral.v0.3.0.x86_64-unknown-freebsd.tar.gz"
